@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" height="18" src="img/developer created.png">
+    <img alt="" title="" height="50px" src="img/developer created.png">
 </h1>
 
 <h2 align="center"> </h2>
