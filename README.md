@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" title="" height="90px" src="img/developer created.png">
+    Responding to User
 </h1>
 
 <h2 align="center"> </h2>
