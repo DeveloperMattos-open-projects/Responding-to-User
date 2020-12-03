@@ -4,7 +4,7 @@
 
 <h2 align="center"> </h2>
 
-<h3 align="center"> created with <img src="img/python.svg" alt="python" height="80px"> </h3>
+<h3 align="center"> created with Python </h3>
 
 
 ## Screens
