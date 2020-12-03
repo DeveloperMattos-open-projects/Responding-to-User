@@ -4,9 +4,8 @@
 
 <h2 align="center"> </h2>
 
-<h3 align="center"> created with <img src="" alt="react" height="18"> Python </h3>
+<h3 align="center"> created with <img src="" alt="python" height="18"> Python </h3>
 
-<p align="center"> <img src="src/assets/heroes.png" alt="heroes" height="250"> </p>
 
 ## Screens
 
