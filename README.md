@@ -2,7 +2,9 @@
     Responding to User
 </h1>
 
-<h2 align="center"> </h2>
+<h2 align="center">
+Very simple system that responds to the user
+</h2>
 
 <h3 align="center"> created with Python </h3>
 
