@@ -18,4 +18,4 @@ Very simple system that responds to the user
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by Developer Mattos</h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by Space Solution Open Project</h4>
